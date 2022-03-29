@@ -1,3 +1,3 @@
 # OriginSix
-Projeto desenvolvido durante a NLW (20-24/06/21), organizado pela RocketSeat 
-Veja meu resultado em https://mattsilverio.github.io/OriginSix/ , ficou muito legal praticando design responsivo e javascript puro
+Project developed during the NLW (20-24/06/21), organized by RocketSeat
+See my result at https://mattsilverio.github.io/OriginSix/ , it was really cool practicing responsive design and pure javascript
