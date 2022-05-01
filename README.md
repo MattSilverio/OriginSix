@@ -2,7 +2,7 @@
 
 
 
-##Technologies
+## Technologies
 HTML, CSS, Javascript
 
 Project developed during the NLW (20-24/06/21), organized by RocketSeat
